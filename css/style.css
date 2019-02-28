@@ -27,8 +27,12 @@ h2 {
     margin: 0 auto;
 }
 
-#rex-bio, #trex, #rex-list {
+#rex-bio, #trex {
     float: left;
+}
+
+#rex-list {
+    float: right;
 }
 
 #trex {
@@ -37,10 +41,10 @@ h2 {
     margin: 20px;
 }
 
-#main-bio{
+#rex-bio{
     width: 70%;
 }
 
-a {
-    color: #d21034;
+#rex-list {
+    margin: 5%;
 }
